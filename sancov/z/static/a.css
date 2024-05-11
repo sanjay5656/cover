@@ -1,0 +1,69 @@
+.bookcover{
+    width: 400px;
+    height: 600px;
+    position: relative;
+    top: 40px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: ' Arial, sans-serif';
+    background-image: url(brain.avif);
+    background-size: cover;
+}
+.head{
+    color:rgb(248, 245, 245);
+
+}
+.style{
+    width:90px;
+}
+.authorname{ 
+    position: relative;
+    color:rgb(255, 255, 255);
+    top:190px;
+    left:265px;
+    font-size: medium;
+}
+.title{
+    color:rgb(255, 255, 255);
+    font-family: Roquen;
+    font-size: larger;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.line {
+    width:400px;
+    position: relative;
+    top:270px;  
+}
+.by{
+    color:rgb(255, 255, 255);
+    font-size: medium;
+    font-family: Verdana;
+    position:relative;
+    top:180px;
+}
+.subtitle{
+    color:rgb(255, 255, 255);
+    font-family: Verdana;
+    font-size: large;
+    position: relative;
+    left:30px;
+    top:40px;
+}
+.photo{
+    position: relative;
+    top: 180px;
+    left: 260px;
+    width: 90px;
+    height: 80px;
+    background-size:contain;
+}
+.about{
+    color:rgb(255, 255, 255);
+    position: relative;
+    left:7px;
+    top: 200px;
+}
